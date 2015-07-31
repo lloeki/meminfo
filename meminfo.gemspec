@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'meminfo'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.licenses    = ['MIT']
   s.summary     = 'Obtain process memory information'
   s.description = 'Obtain process memory information'

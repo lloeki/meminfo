@@ -3,9 +3,3 @@ Process.instance_eval do
     MemInfo.rss(pid)
   end
 end
-
-ObjectSpace.instance_eval do
-  def memsize
-    MemInfo.memsize
-  end
-end
